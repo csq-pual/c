@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636706101 source:e:\c-code\shujujiegou shiyan\实验二\实验二\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
